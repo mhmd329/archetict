@@ -554,7 +554,7 @@
   .card:hover .card-img-wrapper img {
     opacity: 0.5;
   }
-  
+ 
   .card-info {
     position: absolute;
     bottom: 0;
